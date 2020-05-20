@@ -1,6 +1,6 @@
 package com.example.parcial2.MODEL.Consulta;
 
-public class Artist {
+public class Artist  {
     String name;
     String mbid;
     String url;

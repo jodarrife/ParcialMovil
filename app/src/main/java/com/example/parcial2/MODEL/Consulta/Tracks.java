@@ -4,7 +4,7 @@ import com.example.parcial2.MODEL.Track;
 
 import java.util.List;
 
-public class Tracks {
+public class Tracks  {
     List<Track> track = null;
 
     public List<Track> getTrack() {

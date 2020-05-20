@@ -2,7 +2,7 @@ package com.example.parcial2.MODEL;
 
 import com.example.parcial2.MODEL.Consulta.Artist;
 import com.example.parcial2.MODEL.Consulta.Streamable;
-public class Track {
+public class Track  {
     String name;
     String duration;
     String playcount;
